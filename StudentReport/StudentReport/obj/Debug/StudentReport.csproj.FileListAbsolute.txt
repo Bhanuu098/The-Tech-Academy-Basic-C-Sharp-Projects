@@ -1,0 +1,7 @@
+C:\Users\44742\OneDrive\Desktop\Basic_C#_Programs\StudentReport\StudentReport\obj\Debug\StudentReport.csproj.AssemblyReference.cache
+C:\Users\44742\OneDrive\Desktop\Basic_C#_Programs\StudentReport\StudentReport\obj\Debug\StudentReport.csproj.CoreCompileInputs.cache
+C:\Users\44742\OneDrive\Desktop\Basic_C#_Programs\StudentReport\StudentReport\bin\Debug\StudentReport.exe.config
+C:\Users\44742\OneDrive\Desktop\Basic_C#_Programs\StudentReport\StudentReport\bin\Debug\StudentReport.exe
+C:\Users\44742\OneDrive\Desktop\Basic_C#_Programs\StudentReport\StudentReport\bin\Debug\StudentReport.pdb
+C:\Users\44742\OneDrive\Desktop\Basic_C#_Programs\StudentReport\StudentReport\obj\Debug\StudentReport.exe
+C:\Users\44742\OneDrive\Desktop\Basic_C#_Programs\StudentReport\StudentReport\obj\Debug\StudentReport.pdb
