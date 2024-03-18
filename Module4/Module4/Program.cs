@@ -6,17 +6,21 @@ using System.Threading.Tasks;
 
 namespace Module4
 {
-    internal class Program //class
+    public class Program 
     {
-        static int myMethod(int x, int y) // 2 integers
+        public static void Method1(int x, int y) //two integers
         {
-            return 2* x;
+            y = 2 * x; //returning second integer
+            Console.WriteLine(y);
         }
-        static void Main(string[] args)
+        class caller
         {
-            int y = myMethod(2, 4); //return the second integer on screen
-            Console.WriteLine(y); 
-            Console.ReadLine();
+            public static void Main(string[] args)
+            {
+                Program.Method1(3,6); //calling method in another class
+                Console.ReadLine();
+            }
         }
+       
     }
 }
