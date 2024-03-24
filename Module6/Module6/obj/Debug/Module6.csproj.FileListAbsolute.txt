@@ -1,0 +1,7 @@
+C:\Users\44742\OneDrive\Desktop\Basic_C#_Programs\Module6\Module6\bin\Debug\Module6.exe.config
+C:\Users\44742\OneDrive\Desktop\Basic_C#_Programs\Module6\Module6\bin\Debug\Module6.exe
+C:\Users\44742\OneDrive\Desktop\Basic_C#_Programs\Module6\Module6\bin\Debug\Module6.pdb
+C:\Users\44742\OneDrive\Desktop\Basic_C#_Programs\Module6\Module6\obj\Debug\Module6.csproj.AssemblyReference.cache
+C:\Users\44742\OneDrive\Desktop\Basic_C#_Programs\Module6\Module6\obj\Debug\Module6.csproj.CoreCompileInputs.cache
+C:\Users\44742\OneDrive\Desktop\Basic_C#_Programs\Module6\Module6\obj\Debug\Module6.exe
+C:\Users\44742\OneDrive\Desktop\Basic_C#_Programs\Module6\Module6\obj\Debug\Module6.pdb
