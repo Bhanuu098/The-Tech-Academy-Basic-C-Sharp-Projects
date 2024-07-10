@@ -9,3 +9,4 @@ These are some small projects made using C# and .NET Framework.
   There is also an admin page that allows staff to view all of the quotes that have been issued.
 </p>
 <a href="https://github.com/Bhanuu098/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/TwentyOne">21 Game</a>
+<p>This a Casino Game.</p>
